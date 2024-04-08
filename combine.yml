@@ -15,7 +15,7 @@ data:
         smarthost: smtp.gmail.com:587
         auth_username: venu.m.singh@gmail.com
         auth_identity: venu.m.singh@gmail.com
-        auth_password: xvie snzy rnxx qrxm
+        auth_password: xxxx xxxx xxxx xxxx
         send_resolved: true
         headers:
           subject: "Prometheus - Alert"
@@ -24,7 +24,7 @@ data:
       slack_configs:
       - channel: '#upcommerce-devs'
         send_resolved: true
-        api_url: 'https://hooks.slack.com/services/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'
+        api_url: 'https://hooks.slack.com/services/...'
 
     route:
       group_wait: 10s
